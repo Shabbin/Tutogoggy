@@ -26,16 +26,16 @@ A full-stack tuition management and teaching platform with a clear separation be
 
 ## 📸 Screenshots
 ### Dashboard
-![Dashboard](./dashboard.png)
+![Dashboard](./screenshots/dashboard.png)
 
 ### Home
-![Home](./home.png)
+![Home](./screenshots/home.png)
 
 ### Student View
-![Student View](./student-view.png)
+![Student View](./screenshots/student-view.png)
 
 ### Teacher View
-![Teacher View](./teachers-view.png)
+![Teacher View](./screenshots/teachers-view.png)
 
 ## 🚀 Live Demo
 Coming soon
