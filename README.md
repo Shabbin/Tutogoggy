@@ -3,8 +3,8 @@
 A full-stack tuition management and teaching platform with a clear separation between frontend and backend services.
 
 ## 🔗 Project Repositories
-- 🎨 Frontend: [Teaching Platform Frontend](https://github.com/YOUR_USERNAME/teaching-platform-frontend)  
-- 🧠 Backend: [Teaching Platform Backend](https://github.com/YOUR_USERNAME/teaching-platform-backend)  
+- 🎨 Frontend: [Teaching Platform Frontend](https://github.com/Shabbin/teaching-platform-frontend)  
+- 🧠 Backend: [Teaching Platform Backend](https://github.com/Shabbin/teaching-platform-backend)  
 
 ## 🧱 Tech Stack
 ### Frontend
@@ -38,4 +38,4 @@ A full-stack tuition management and teaching platform with a clear separation be
 ![Teacher View](./screenshots/teachers-view.png)
 
 ## 🚀 Live Demo
-Coming soon
+[Check it out here!](https://teaching-platform-beige.vercel.app/)
