@@ -1,6 +1,6 @@
 # Tuition Platform
 
-A full-stack tuition management and teaching platform with a clean separation between frontend and backend services.
+A full-stack tuition management and teaching platform with a clear separation between frontend and backend services.
 
 ## 🔗 Project Repositories
 - 🎨 Frontend: [Teaching Platform Frontend](https://github.com/YOUR_USERNAME/teaching-platform-frontend)  
@@ -25,20 +25,17 @@ A full-stack tuition management and teaching platform with a clean separation be
 - Responsive user interface
 
 ## 📸 Screenshots
-### Dashboard / Home
-![Dashboard Home](./dashboard-home.png)
+### Dashboard
+![Dashboard](./dashboard.png)
+
+### Home
+![Home](./home.png)
 
 ### Student View
 ![Student View](./student-view.png)
 
 ### Teacher View
 ![Teacher View](./teachers-view.png)
-
-### Chat Feature
-![Chat Feature](./chat-feature.png)
-
-### Recent Views
-![Recent Views](./recent-views.png)
 
 ## 🚀 Live Demo
 Coming soon
