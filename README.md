@@ -4,7 +4,7 @@ A full-stack tuition management and teaching platform with a clear separation be
 
 ## 🔗 Project Repositories
 - 🎨 Frontend: [Teaching Platform Frontend](https://github.com/Shabbin/teaching-platform)  
-- 🧠 Backend: [Teaching Platform Backend](https://github.com/Shabbin/teaching-platform)  
+- 🧠 Backend: [Teaching Platform Backend](https://github.com/Shabbin/tuition-platform)  
 
 ## 🧱 Tech Stack
 ### Frontend
