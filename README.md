@@ -28,14 +28,6 @@ A full-stack tuition management and teaching platform with a clear separation be
 ### Dashboard
 ![Dashboard](./screenshots/dashboard.png)
 
-### Home
-![Home](./screenshots/home.png)
-
-### Student View
-![Student View](./screenshots/student-view.png)
-
-### Teacher View
-![Teacher View](./screenshots/teachers-view.png)
 
 ## 🚀 Live Demo
 [Check it out here!](https://teaching-platform-beige.vercel.app/)
