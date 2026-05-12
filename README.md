@@ -5,6 +5,7 @@
 [![Frontend](https://img.shields.io/badge/Frontend-React%20%2B%20Next.js-blue?logo=react)](https://github.com/Shabbin/teaching-platform)
 [![Backend](https://img.shields.io/badge/Backend-Node.js%20%2B%20Express-green?logo=node.js)](https://github.com/Shabbin/tuition-platform)
 [![Database](https://img.shields.io/badge/Database-MongoDB-brightgreen?logo=mongodb)](https://www.mongodb.com/)
+**Live Demo Note:** The backend may take 30–60 seconds to wake up on the first request because it is hosted on a free-tier server.
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-success)](https://teaching-platform-beige.vercel.app/)
 
 ---
