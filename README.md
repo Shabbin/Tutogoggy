@@ -1,6 +1,19 @@
 # 📚 Tutogoggy - Full-Stack Tuition Platform
 
 > A comprehensive, full-stack tuition management and teaching platform with clear separation between frontend and backend services. Built for seamless student-teacher interaction, scheduling, and course management.
+---
+
+## ⚡ What makes this project non-trivial
+
+This is not a basic CRUD application. It includes multiple real-world system design problems:
+
+- 🔄 Real-time multi-user chat system with persistent threads (Socket.IO + MongoDB sync)
+- 🧠 State-machine based tuition lifecycle (request → approval → active learning session)
+- 👥 Multi-role architecture (student / teacher / parent with strict access control)
+- 📅 Scheduling system with consensus-based acceptance flow between participants
+- 💳 Payment flow tightly coupled with enrollment lifecycle state transitions
+
+---
 
 [![Frontend](https://img.shields.io/badge/Frontend-React%20%2B%20Next.js-blue?logo=react)](https://github.com/Shabbin/teaching-platform)
 [![Backend](https://img.shields.io/badge/Backend-Node.js%20%2B%20Express-green?logo=node.js)](https://github.com/Shabbin/tuition-platform)
